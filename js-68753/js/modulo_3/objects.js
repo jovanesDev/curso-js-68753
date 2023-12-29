@@ -1,7 +1,4 @@
 console.log('Hola desde Objects')
-
-
-
 // En los objetos se puede guardar varios parametros
 // se divide en key y value , y se asigna con los dos puntos (:)
 // de lado izquierdo seria la key y lado derecho su valor
